@@ -31,7 +31,7 @@ body {
 header {
   background:
     linear-gradient(rgba(0,0,0,0.45), rgba(0,0,0,0.45)),
-    url("style/img/firstpage.jpg") center/cover no-repeat;
+    url("/style/img/firstpage.jpg") center/cover no-repeat;
 
   height: 100vh;
   text-align: center;
@@ -263,7 +263,7 @@ section h2 {
 .opinie {
   background:
     linear-gradient(rgba(0,0,0,0.5), rgba(0,0,0,0.5)),
-    url("style/img/overlook-4841320_1280.jpg") center/cover no-repeat;
+    url("/style/img/overlook-4841320_1280.jpg") center/cover no-repeat;
   background-repeat: no-repeat;
   background-position: 60% 0;
   background-size: cover;
